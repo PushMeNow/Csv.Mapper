@@ -11,7 +11,7 @@ namespace Csv.Mapper.Attributes
         {
             Guard.Argument(_columnIndex, nameof(columnIndex))
                  .NotNegative();
-            
+
             _columnIndex = columnIndex;
         }
     }

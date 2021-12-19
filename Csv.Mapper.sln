@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csv.Mapper.Attributes", "Cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csv.Mapper.Shared", "Csv.Mapper.Shared\Csv.Mapper.Shared.csproj", "{9EE85460-4D5D-4B1C-A634-71BDBC955408}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csv.Mapper.Interface", "Csv.Mapper.Interface\Csv.Mapper.Interface.csproj", "{8B360933-E53D-4E3A-9046-F41D5ED03621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csv.Mapper.Services", "Csv.Mapper.Services\Csv.Mapper.Services.csproj", "{E1A3C47A-4725-4C1E-BE34-EE76A3BBF516}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{9EE85460-4D5D-4B1C-A634-71BDBC955408}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EE85460-4D5D-4B1C-A634-71BDBC955408}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EE85460-4D5D-4B1C-A634-71BDBC955408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B360933-E53D-4E3A-9046-F41D5ED03621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B360933-E53D-4E3A-9046-F41D5ED03621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B360933-E53D-4E3A-9046-F41D5ED03621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B360933-E53D-4E3A-9046-F41D5ED03621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A3C47A-4725-4C1E-BE34-EE76A3BBF516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A3C47A-4725-4C1E-BE34-EE76A3BBF516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A3C47A-4725-4C1E-BE34-EE76A3BBF516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A3C47A-4725-4C1E-BE34-EE76A3BBF516}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
